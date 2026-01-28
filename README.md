@@ -44,7 +44,7 @@ If you wish to downloand SNAPSHOT build of the development version of Tigase XMP
 
 # Installation and usage
 
-Documentation of the project is part of the Tigase XMPP Server distribution package and it is also available as part of [Tigase XMPP Server documnetation page](https://docs.tigase.net/).
+Documentation of the project is part of the Tigase XMPP Server distribution package and it is also available as part of [Tigase XMPP Server documentation page](https://docs.tigase.net/).
 
 # Compilation 
 
